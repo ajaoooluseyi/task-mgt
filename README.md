@@ -22,7 +22,7 @@ In the projects' working directory execute the below command to create a virtual
 
  
 ```python
-$ virtualenv venv
+$ py -m venv venv
 ```
 
 To activate the virtual environment, execute the below command.
