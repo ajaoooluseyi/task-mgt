@@ -1,5 +1,15 @@
 # task-mgt
 
+## Description
+It is a User Task Management API built on a PostgreSQL database. It uses JWT for user authentication and authorization with full CRUD capabilty for tasks. 
+
+### Dependencies
+* FastAPI
+* Python version 3.11 
+
+
+### Executing program
+
 On the terminal execute the below command to create the projects' working directory and move into that directory.
 
  
